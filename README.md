@@ -63,11 +63,3 @@ Este repositório contém instruções passo a passo para criar um **Tsuru**, a 
 ## ✨ Curiosidade
 
 Segundo a lenda japonesa, quem fizer **1000 tsurus** com bons pensamentos terá um desejo realizado. 🧘
-
----
-
-## 📄 Licença
-
-Este conteúdo é de uso livre para fins educativos e criativos.  
-Créditos ao vídeo original: *Canal Origami - YouTube*.
-
